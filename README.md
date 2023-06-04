@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for your crypto-verse website:
-
 # Crypto-Verse Website
 
 The Crypto-Verse website is a platform that provides users with price graphs of cryptocurrencies and news updates about the crypto-market. It utilizes various technologies and APIs to deliver a comprehensive experience for cryptocurrency enthusiasts.
