@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-If you have any questions or inquiries, please contact the project maintainer at (mailto:nishntraut17@gmail.com).
+If you have any questions or inquiries, please contact the project maintainer at (mailto:jeetdhabre18@gmail.com).
 
 ---
 
